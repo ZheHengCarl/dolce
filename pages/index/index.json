@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "component": "/components/component"
+  },
+  "navigationBarTitleText": "首页",
+  "disableScroll": true
+}

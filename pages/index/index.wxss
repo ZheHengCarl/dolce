@@ -1,0 +1,4 @@
+
+.banner-content { position: relative; width: 100%; height: 400rpx;}
+swiper {position: relative; width: 100%; height:100%;}
+.banner-content image { display: block; width: 100%; height: 100%;}

@@ -1,0 +1,8 @@
+<!--components/component.wxml-->
+<view class='content' >
+  <view bindtap="add" wx:for="{{navList}}" wx:key="{{index}}" class='item {{index==active?"active":""}}' >
+    <view class='fa {{item.icon}}'></view>
+    <text>{{item.text}}</text>
+  </view>
+
+</view>
